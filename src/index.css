@@ -52,6 +52,7 @@ header h1 {
 .card-body {
   text-align: center;
   padding: 10px;
+  border: 2px solid grey;
 }
 .card-title {
   margin-bottom: 46px;

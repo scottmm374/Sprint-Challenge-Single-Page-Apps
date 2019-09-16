@@ -9,7 +9,7 @@ export default function LocationCard({ name, type, dimension }) {
           <CardTitle>{name}</CardTitle>
           <CardSubtitle> Type: {type}</CardSubtitle>
           <CardSubtitle> Dimensions: {dimension}</CardSubtitle>
-          
+
         </CardBody>
       </Card>
     </div>
